@@ -245,12 +245,12 @@ int main()
 
 
 //Polymorphism : many forms : existing in different forms
-//1) Compile time polymorphism : -Function overloading , operator overloading
+//1) Compile time polymorphism : (binding code in compile time) -Function overloading , operator overloading
 //-- Function overloading : if function names are same then input parameters should be different 
 //-- Operator overloading : variable can be used in different way (like use + to substract);
 
 
-//Run time polymorphism  -- Function overriding
+//Run time polymorphism  -- (binding code in run time)Function overriding
 //parent class and sub class should have same method name
 //parent class and sub class should have same argument(parameter)
 //sub class should ne inherited
